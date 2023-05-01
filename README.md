@@ -62,6 +62,8 @@ So the Land Registration system using blockchain is a distributed system that wi
 
 ## [Project Demo Link](https://youtu.be/6VLaAa8GNDc)
 
+## [Article Link](https://dev.to/vrii14/land-registration-system-using-blockchain-43ei)
+
 ## Some features of the application:-
 
 
